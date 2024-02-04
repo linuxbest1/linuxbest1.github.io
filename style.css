@@ -1,0 +1,161 @@
+body {
+  margin: 0%;
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+}
+
+.black1 {
+  color:white ;
+  margin-left: 50px;
+}
+
+.logotype__part logotype__part_size_long logotype__part_visible_on {
+  width: 50px;
+}
+
+.bll {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 25px;
+}
+
+.admin {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
+
+.black {
+  background-color: red;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  margin-left: 550px;
+}
+
+.Last {
+  margin-left: 500px;
+}
+
+.white {
+  color: white;
+  margin-left: 750px;
+}
+
+.blue {
+  background-image: none;
+  border: #dd3d53;
+  border-radius: 2px;
+  margin-right: 200px;
+  margin-left: 500px;
+}
+
+.heaa {
+  margin-left: 900px;
+  color: blue;
+}
+
+.tess li a {
+  display: flex;
+  text-decoration: none;
+}
+
+.admina {
+  width: 15px;
+}
+
+ul {
+  line-height: 50px;
+  margin: 0%;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  background-color: black;
+}
+
+.logo-link {
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+
+.logo-img {
+  height: 40px;
+  margin-left: 25px;
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+}
+
+.nav-list li {
+  padding: 0 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+
+.nav-list li:nth-of-type(6) a {
+  background-color: #dd3d53;
+  border-radius: 3px;
+  display: flex;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 10px;
+  transition: all 0.25s ease;
+  align-items: center;
+}
+
+.nav-list li:nth-of-type(7) a {
+  background-color: #dd3d53;
+  border-radius: 3px;
+  display: flex;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 10px;
+  transition: all 0.25s ease;
+  align-items: center;
+}
+
+.nav-list li:nth-of-type(8) a {
+  background-color: #dd3d53;
+  border-radius: 3px;
+  display: flex;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 10px;
+  transition: all 0.25s ease;
+  align-items: center;
+}
+
+.heart-icon {
+  margin-right: 5px;
+}
+
+
+.nav-list li:nth-of-type(6) a:hover {
+  background: green;
+  color: #fff;
+}
+
+.nav-list li:nth-of-type(7) a:hover {
+  background: green;
+  color: #fff;
+}
+
+.nav-list li:nth-of-type(8) a:hover {
+  background-color: aquamarine;
+  color: #fff;
+}
+
+.nav-list li:last-of-type a svg {
+  width: 1em;
+}
