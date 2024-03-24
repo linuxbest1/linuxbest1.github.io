@@ -5,7 +5,7 @@ body {
 }
 
 .black1 {
-  color:white ;
+  color: white;
   margin-left: 50px;
 }
 
@@ -14,13 +14,17 @@ body {
 }
 
 .bll {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 25px;
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 35px;
 }
 
 .admin {
-  font-family: "Courier New", Courier, monospace;
-  font-size: 25px;
+  font-family: "Inconsolata", monospace;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 44px;
 }
 
 .black {
@@ -58,7 +62,17 @@ body {
 }
 
 .admina {
-  width: 15px;
+  width: 105px;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.aboutgta5 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 38px;
+  text-transform: uppercase;
 }
 
 ul {
@@ -102,7 +116,6 @@ a {
   font-size: 14px;
 }
 
-
 .nav-list li:nth-of-type(6) a {
   background-color: #dd3d53;
   border-radius: 3px;
@@ -140,7 +153,6 @@ a {
   margin-right: 5px;
 }
 
-
 .nav-list li:nth-of-type(6) a:hover {
   background: green;
   color: #fff;
@@ -158,4 +170,15 @@ a {
 
 .nav-list li:last-of-type a svg {
   width: 1em;
+}
+
+.aboutgta5-2 {
+  font-family: "Finger Paint", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 35px;
+  vertical-align: super;
+  font: bold;
+  text-transform: capitalize;
+  white-space: pre-line;
 }
